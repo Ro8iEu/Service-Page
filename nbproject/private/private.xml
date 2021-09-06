@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/forms/ReportManageForm.class.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/controllers/ReportManageCtrl.class.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/views/ReportManage.tpl</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/views/reportDetail.tpl</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/controllers/ReportDetailCtrl.class.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/routing.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/init.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/views/reportList.tpl</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/transfer/User.class.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/views/ReportNew.tpl</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/forms/ReportDetailForm.class.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/controllers/LoginCtrl.class.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/forms/LoginForm.class.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/index.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/controllers/welcomeCtrl.class.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/views/LoginView.tpl</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/controllers/ReportListCtrl.class.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/ctrl.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/views/templates/main.tpl</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/config.php</file>
+            <file>file:/Z:/Xampp/htdocs/projekt/app/views/welcomeView.tpl</file>
+        </group>
+    </open-files>
+</project-private>
